@@ -1,0 +1,19 @@
+body{background-color:blueviolet;
+    background-position: 5pc;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    font-language-override: initial;
+    font-variant-ligatures: normal;
+    padding: 20%;
+    padding-top: 10%;
+    padding-right: 20%;
+    padding-left: 15%;
+    color: navy;
+ 
+   
+  li{
+    float:left;
+  }
+  .main-links{
+    float: left;
+  }
